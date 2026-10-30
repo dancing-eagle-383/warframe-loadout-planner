@@ -1,0 +1,22 @@
+{
+  "name": "warframe-loadout-planner",
+  "displayName": "Warframe Loadout Planner",
+  "programType": "loadout-planner",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Equipment groups",
+    "Build comparisons",
+    "Activity notes"
+  ],
+  "topics": [
+    "warframe-loadout-planner",
+    "warframe-tools",
+    "warframe-menu",
+    "warframe-settings",
+    "warframe-configs",
+    "warframe-equipment-groups",
+    "warframe-build-comparisons"
+  ]
+}
